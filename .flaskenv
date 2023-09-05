@@ -1,2 +1,2 @@
-FLASK_APP=tuto
-FLASK_ENV=development
+FLASK_APP=app
+FLASK_DEBUG=True
